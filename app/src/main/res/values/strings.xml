@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lenguajes_programacion</string>
+    <string name="Lenguages">¿Cual es tu lenguage preferido?</string>
+    <string name="cb1">Desarrollo Android</string>
+    <string name="cb2">Desarrollo Web</string>
+    <string name="cb3">Desarrollo Game</string>
+    <string name="cb4">Desarrollo Grafico</string>
+</resources>
